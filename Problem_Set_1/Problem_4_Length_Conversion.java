@@ -2,7 +2,7 @@ package Problem_Set_1;
 
 import java.util.Scanner;
 
-public class Problem_2_Length_Conversion {
+public class Problem_4_Length_Conversion {
 
 	public static void main(String[] args) {
 		

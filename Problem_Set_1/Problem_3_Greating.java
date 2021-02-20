@@ -2,7 +2,7 @@ package Problem_Set_1;
 
 import java.util.Scanner;
 
-public class Problem_2_Greating {
+public class Problem_3_Greating {
 
 	public static void main(String[] args) {
 		

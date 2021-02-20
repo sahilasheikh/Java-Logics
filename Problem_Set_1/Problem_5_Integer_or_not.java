@@ -2,7 +2,7 @@ package Problem_Set_1;
 
 import java.util.Scanner;
 
-public class Problem_2_Integer_or_not {
+public class Problem_5_Integer_or_not {
 
 	public static void main(String[] args) {
 		
