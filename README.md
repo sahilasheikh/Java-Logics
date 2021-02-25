@@ -1,4 +1,4 @@
-## JSP CRUD
+## Java Logic
 * In this repo, you will get the logics of programs.
 
 ## Getting Started

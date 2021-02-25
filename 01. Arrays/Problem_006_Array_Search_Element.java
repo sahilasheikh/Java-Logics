@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problem_005_Array_Search_Element {
+public class Problem_006_Array_Search_Element {
 
 	public static void main(String[] args) {
 		
@@ -13,7 +13,7 @@ public class Problem_005_Array_Search_Element {
 		 * 
 		 * Solution/Algo:
 		 * 				1. start
-		 * 				2. declare array int ar[] = {1, 56, 98, 36, 45, 12, 95};
+		 * 				2. declare array int ar[] = {1, 56, 98, 36, 45, 12, 95}; and print it
 		 * 				3. declare a boolean which will store the status true if value found and initiate the position int
 		 * 				4. ask the value from the user which have to Search in an given array
 		 * 				5. initiate for loop start with 0 and end at ar.lenght
@@ -44,14 +44,19 @@ public class Problem_005_Array_Search_Element {
 		
 		Scanner scan = new Scanner(System.in);
 		
-//		2. declare array int ar[] = {1, 56, 98, 36, 45, 12, 95};
+//		2. declare array int ar[] = {1, 56, 98, 36, 45, 12, 95}; and print it
 		int ar[] = {1, 56, 98, 36, 45, 12, 95};
+		System.out.println("Given Array");
+		for (int i = 0; i < ar.length; i++) {
+			System.out.print(ar[i] + " ");
+		}
+		
 //		3. declare a boolean which will store the status true if value found and initiate the position int
 		boolean status = false;
 		int position = 0;
 		
 //		4. ask the value from the user which have to Search in an given array
-		System.out.println("Enter the value");
+		System.out.println("\nEnter the value");
 		int value = scan.nextInt();
 		
 //		5. initiate for loop start with 0 and end at ar.lenght
