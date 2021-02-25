@@ -1,5 +1,5 @@
-## Java Logic
-* In this repo, you will get the logics of programs.
+## Java Logic DS Algo
+* In this repo, you will get all the logical programs, Data Structures, and Algorithms with codes.
 
 ## Getting Started
 * You just have to clone the repo and import in any java editor.
